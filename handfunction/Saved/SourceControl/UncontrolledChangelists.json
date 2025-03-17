@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ASUS/OneDrive/Documents/Unreal Projects/handfunction/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/ASUS/OneDrive/Documents/Unreal Projects/handfunction/Content/pickupObject.uasset",
+				"C:/Users/ASUS/OneDrive/Documents/Unreal Projects/handfunction/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/ASUS/OneDrive/Documents/Unreal Projects/handfunction/Content/Characters/Mannequin_UE4/Animations/Carry.uasset",
+				"C:/Users/ASUS/OneDrive/Documents/Unreal Projects/handfunction/Content/Characters/Mannequins/Animations/Quinn/Carry.uasset",
+				"C:/Users/ASUS/OneDrive/Documents/Unreal Projects/handfunction/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/7/O2/3UISAWUGP2GNC5R2911W00.uasset",
+				"C:/Users/ASUS/OneDrive/Documents/Unreal Projects/handfunction/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/JZ/MBP543WDF7O4J0NOCMOYJJ.uasset",
+				"C:/Users/ASUS/OneDrive/Documents/Unreal Projects/handfunction/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Users/ASUS/OneDrive/Documents/Unreal Projects/handfunction/Content/Characters/Carrying.uasset",
+				"C:/Users/ASUS/OneDrive/Documents/Unreal Projects/handfunction/Content/Characters/NewAnimation.uasset"
+			]
+		}
+	]
+}
