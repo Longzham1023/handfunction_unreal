@@ -2174,3 +2174,27 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.03.24-13.12.19:692][409]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5058.867188
 [2025.03.24-13.12.20:692][412]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.03.24-13.12.20:692][412]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5059.534180, Update Interval: 316.216309
+[2025.03.24-13.15.39:634][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2025.03.24-13.15.39:635][ 17]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.027
+[2025.03.24-13.15.39:636][ 17]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Animations/ABP_Manny] ([2] browsable assets)...
+[2025.03.24-13.15.40:049][ 17]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny]
+[2025.03.24-13.15.40:050][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/ABP_Manny]
+[2025.03.24-13.15.40:100][ 17]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Animations/ABP_Manny_Auto3
+[2025.03.24-13.15.40:100][ 17]LogSavePackage: Moving '../../../../../../Users/ASUS/OneDrive/Documents/Unreal Projects/handfunction_unreal/handfunction/Saved/ABP_Manny_Auto31E9363474F13463E4326EA83D0A1E811.tmp' to '../../../../../../Users/ASUS/OneDrive/Documents/Unreal Projects/handfunction_unreal/handfunction/Saved/Autosaves/Game/Characters/Mannequins/Animations/ABP_Manny_Auto3.uasset'
+[2025.03.24-13.15.40:102][ 17]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/StaticMesh] ([1] browsable assets)...
+[2025.03.24-13.15.40:102][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/StaticMesh]
+[2025.03.24-13.15.40:233][ 17]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/StaticMesh_Auto3
+[2025.03.24-13.15.40:233][ 17]LogSavePackage: Moving '../../../../../../Users/ASUS/OneDrive/Documents/Unreal Projects/handfunction_unreal/handfunction/Saved/StaticMesh_Auto3DEEB84754F5443F2D538909C16FA3283.tmp' to '../../../../../../Users/ASUS/OneDrive/Documents/Unreal Projects/handfunction_unreal/handfunction/Saved/Autosaves/Game/Characters/StaticMesh_Auto3.uasset'
+[2025.03.24-13.15.40:235][ 17]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NewAnimation] ([1] browsable assets)...
+[2025.03.24-13.15.40:235][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/NewAnimation]
+[2025.03.24-13.15.40:256][ 17]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NewAnimation_Auto3
+[2025.03.24-13.15.40:256][ 17]LogSavePackage: Moving '../../../../../../Users/ASUS/OneDrive/Documents/Unreal Projects/handfunction_unreal/handfunction/Saved/NewAnimation_Auto322ECE9764796CB70233DD48F7BB9F0FC.tmp' to '../../../../../../Users/ASUS/OneDrive/Documents/Unreal Projects/handfunction_unreal/handfunction/Saved/Autosaves/Game/NewAnimation_Auto3.uasset'
+[2025.03.24-13.15.40:258][ 17]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequins/Meshes/SK_Mannequin_PoseAsset] ([1] browsable assets)...
+[2025.03.24-13.15.40:258][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Meshes/SK_Mannequin_PoseAsset]
+[2025.03.24-13.15.41:344][ 17]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Meshes/SK_Mannequin_PoseAsset_Auto3
+[2025.03.24-13.15.41:344][ 17]LogSavePackage: Moving '../../../../../../Users/ASUS/OneDrive/Documents/Unreal Projects/handfunction_unreal/handfunction/Saved/SK_Mannequin_PoseAsset_Auto38F16EC944FCDC9E9BCA9198D0A34B9CB.tmp' to '../../../../../../Users/ASUS/OneDrive/Documents/Unreal Projects/handfunction_unreal/handfunction/Saved/Autosaves/Game/Characters/Mannequins/Meshes/SK_Mannequin_PoseAsset_Auto3.uasset'
+[2025.03.24-13.15.41:346][ 17]LogFileHelpers: Auto-saving content packages took 1.710
+[2025.03.24-13.15.41:363][ 17]LogAutomationController: Ignoring very large delta of 2.19 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.03.24-13.18.20:053][494]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5419.241211
+[2025.03.24-13.18.21:055][497]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.24-13.18.21:055][497]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5419.909180, Update Interval: 323.645142
